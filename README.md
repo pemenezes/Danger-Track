@@ -3,10 +3,10 @@
 Integrantes
 ---
 Pedro Henrique Silva | RM97432
-Pedro Gava | RM
-Eric Rodrigues | RM
-Anny Dias | RM
-Henrique Lima | RM
+Pedro Gava | RM551043
+Eric Rodrigues | RM550249
+Anny Dias | RM98295
+Henrique Lima | RM551528
 
 ---
 
@@ -36,3 +36,11 @@ O principal objetivo do Danger Track não é apenas a punição, mas a prevenç�
 
 
 <img width="403" height="603" alt="image" src="https://github.com/user-attachments/assets/07afcd31-d399-4489-814b-e0f278fb00a3" />
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_bhhkhtbhhkhtbhhk" src="https://github.com/user-attachments/assets/d5a9a872-04cb-4fec-bf0d-b869bfc8d7ac" />
+
+
+
+https://github.com/user-attachments/assets/baeba296-7299-469a-9625-64c4ce499f3a
+
+
