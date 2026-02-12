@@ -71,7 +71,9 @@ https://github.com/user-attachments/assets/baeba296-7299-469a-9625-64c4ce499f3a
 
 
 <img width="1038" height="654" alt="imagem" src="https://github.com/user-attachments/assets/be72f32b-93dc-48cc-9fb3-53a1bf0f9e98" />
-![imagem](https://github.com/user-attachments/assets/e6d59fd9-5447-4ec9-8f48-fe75b47098a0)
+<img width="1031" height="669" alt="imagem (1)" src="https://github.com/user-attachments/assets/a107bf26-d360-45be-9964-6733b84fe4ed" />
+
+
 
 ---
 Código tinkercad:
