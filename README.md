@@ -70,3 +70,37 @@ A proposta não busca apenas monitorar; busca antecipar, proteger e transformar 
 https://github.com/user-attachments/assets/baeba296-7299-469a-9625-64c4ce499f3a
 
 
+<img width="1038" height="654" alt="imagem" src="https://github.com/user-attachments/assets/be72f32b-93dc-48cc-9fb3-53a1bf0f9e98" />
+![imagem](https://github.com/user-attachments/assets/e6d59fd9-5447-4ec9-8f48-fe75b47098a0)
+
+---
+Código tinkercad:
+const int ldrPin = A0;
+const int ledVerde = 2;
+const int ledVermelho = 3;
+ 
+int valorLDR;
+int limite = 500; // ajuste se necessário
+ 
+void setup() {
+  pinMode(ledVerde, OUTPUT);
+  pinMode(ledVermelho, OUTPUT);
+  Serial.begin(9600);
+}
+ 
+void loop() {
+  valorLDR = analogRead(ldrPin);
+  Serial.println(valorLDR);
+ 
+  if (valorLDR < limite) {
+    // Objeto tampando a luz
+    digitalWrite(ledVerde, HIGH);
+    digitalWrite(ledVermelho, LOW);
+  } else {
+    // Luz incidindo → objeto removido
+    digitalWrite(ledVerde, LOW);
+    digitalWrite(ledVermelho, HIGH);
+  }
+ 
+  delay(300);
+}
